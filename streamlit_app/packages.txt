@@ -1,0 +1,2 @@
+# packages.txt is no longer needed.
+# ffmpeg is now handled via imageio-ffmpeg in requirements.txt
